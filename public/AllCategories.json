@@ -1,78 +1,78 @@
 [
   {
     "name": "Electronics",
-    "image": "https://2.imimg.com/data2/UP/MK/MY-3812101/electronics.jpg",
+    "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "subcategories": [
       {
         "name": "Mobiles",
-        "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/HR/PW/SE/32162519/vivo-mobile-phone.png",
+        "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "subcategories": [
           {
-            "name": "Smartphones",
-            "image": "https://www.itel-india.com/wp-content/uploads/2024/04/12-min-min.jpg",
-            "price": 10000
+            "name": "iphone 5 pro max",
+            "image": "https://m.media-amazon.com/images/I/314Rp+8XKWL._AC_SR300,300.jpg",
+            "price": 100000
           },
           {
-            "name": "Feature Phones",
-            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369818",
+            "name": "Redmi 13C",
+            "image": "https://m.media-amazon.com/images/I/4180tJsogaL._SX300_SY300_QL70_FMwebp_.jpg",
             "price": 15000
           }
         ]
       },
       {
         "name": "Laptops",
-        "image": "https://i.rtings.com/assets/pages/IxCXzynA/apple-laptop-lineup-20220825-3-medium.jpg?format=auto",
+        "image": "https://m.media-amazon.com/images/I/61Qe0euJJZL.jpg",
         "subcategories": [
           {
-            "name": "Gaming Laptops",
+            "name": "ROG 13XG Gaming Laptops",
             "image": "https://contentstatic.techgig.com/photo/106927668/best-gaming-laptops-to-consider-in-2024.jpg?989012",
             "price": 95000
           },
           {
-            "name": "Ultrabooks",
-            "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/02/Best-Ultrabook.jpg",
+            "name": "Mi Notebook",
+            "image": "https://i02.appmifile.com/384_operator_sg/23/08/2021/35efcdba70dfa7e1dde2f974930dd71b.png",
             "price": 65000
           },
           {
-            "name": "Notebooks",
-            "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-7430-2in1-intel/general/notebook-inspiron-14-7430-silver-right-facing.png?fmt=png-alpha&wid=800&hei=620",
+            "name": "HP Notebooks",
+            "image": "https://images-cdn.ubuy.co.in/633ff27abe877267cd48ec69-mini-laptop-student-geekplus-small.jpg",
             "price": 50000
           }
         ]
       },
       {
         "name": "Cameras",
-        "image": "https://sharpi.in/wp-content/uploads/2022/06/1653353121_1708099.jpg",
+        "image": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "price": 29000
       },
       {
         "name": "Televisions",
-        "image": "https://5.imimg.com/data5/JS/HB/MY-20911920/led-televisions.jpg",
+        "image": "https://images.pexels.com/photos/5490302/pexels-photo-5490302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "price": 14999
       },
       {
         "name": "Accessories",
-        "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/VO/CT/YY/163122041/men-fashion-accessories.jpg",
+        "image": "https://images.pexels.com/photos/11230870/pexels-photo-11230870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "price": 8999
       }
     ]
   },
   {
     "name": "Fashion",
-    "image": "https://marketplace.canva.com/EAFCbKLQ_LE/1/0/1600w/canva-white-black-minimalist-fashion-store-logo-FBKZMKJ8Vpw.jpg",
+    "image": "https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "subcategories": [
       {
         "name": "Men",
-        "image": "https://elizabetta.net/cdn/shop/articles/mens-handrolled-large-silk-pocket-square_600x.jpg?v=1692808561",
+        "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "subcategories": [
           {
             "name": "Top Wear",
-            "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/8717979/2019/3/20/585db9fe-1df0-458d-b218-6f514eabb9601553068826233-Mast--Harbour-Men-Shirts-4141553068825026-1.jpg",
+            "image": "https://m.media-amazon.com/images/I/41Wjul--EKL.jpg",
             "price": 799
           },
           {
             "name": "Bottom Wear",
-            "image": "https://www.tistabene.com/cdn/shop/articles/mens_bottomwear.png?v=1694584216",
+            "image": "https://images.pexels.com/photos/52518/jeans-pants-blue-shop-52518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "price": 899,
             "subcategories": [
               {
@@ -87,57 +87,57 @@
           },
           {
             "name": "Ethnic Wear",
-            "image": "https://shreeman.in/cdn/shop/products/1J8A2748.jpg?v=1675760776&width=3600",
+            "image": "https://m.media-amazon.com/images/I/61J0JmmykZL._SX679_.jpg",
             "price": 1200
           }
         ]
       },
       {
         "name": "Women's Wear",
-        "image": "https://img.freepik.com/free-vector/flat-design-clothing-store-logo-design_23-2149496428.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1719273600&semt=ais_user"
+        "image": "https://images.pexels.com/photos/8916600/pexels-photo-8916600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },
       {
         "name": "Kids' Wear",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBo3LytlkPb6LNWgn73lpXz_MnrI0m18LWw&s"
+        "image": "https://images.pexels.com/photos/1620760/pexels-photo-1620760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },
       {
         "name": "Footwear",
-        "image": "https://images.moneycontrol.com/static-mcnews/2020/04/footwear-28042020.jpg?impolicy=website&width=1600&height=900"
+        "image": "https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },
       {
         "name": "Accessories",
-        "image": "https://cdn.shopify.com/s/files/1/0071/7406/2170/files/accessories-blog_1024x1024.jpg?v=1584702437"
+        "image": "https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       }
     ]
   },
   {
     "name": "Home & Kitchen",
-    "image": "https://media.designcafe.com/wp-content/uploads/2021/05/26182848/indian-style-kitchen-interior-designs-for-your-home.jpg",
+    "image": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "subcategories": [
       {
         "name": "Furniture",
-        "image": "https://5.imimg.com/data5/SELLER/Default/2022/6/XG/PX/SB/58078843/office-furniture-interior-design-service.jpeg",
+        "image": "https://images.pexels.com/photos/245208/pexels-photo-245208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "subcategories": [
           {
             "name": "Sofas",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2022/6/XG/PX/SB/58078843/office-furniture-interior-design-service.jpeg",
+            "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "price": 15000
           },
           {
             "name": "Beds",
-            "image": "https://m.media-amazon.com/images/I/71IbO3DSAaL.AC_UF1000,1000_QL80.jpg",
+            "image": "https://images.pexels.com/photos/1034584/pexels-photo-1034584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "price": 30000
           },
           {
             "name": "Dining Tables",
-            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/dining-table/8/h/m/290-4-seater-340-foam-dining-table-utkarsh-450-honey-finish-original-imagmwggdzzzxcsv.jpeg?q=20&crop=false",
+            "image": "https://images.pexels.com/photos/2995012/pexels-photo-2995012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "price": 13999
           }
         ]
       },
       {
         "name": "Kitchen Appliances",
-        "image": "https://cdn.firstcry.com/education/2023/01/13101355/Names-Of-Household-Appliances-In-English.jpg",
+        "image": "https://images.pexels.com/photos/279648/pexels-photo-279648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "subcategories": [
           {
             "name": "Microwaves",
@@ -158,77 +158,77 @@
       },
       {
         "name": "Home Decor",
-        "image": "https://homafy.com/wp-content/uploads/2023/05/Modern-Home-Metal-Wall-Art.jpeg"
+        "image": "https://images.pexels.com/photos/667838/pexels-photo-667838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },
       {
         "name": "Gardening Tools",
-        "image": "https://m.media-amazon.com/images/I/614OgDfTCXL.AC.jpg"
+        "image": "https://images.pexels.com/photos/8543400/pexels-photo-8543400.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       }
     ]
   },
   {
     "name": "Books",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQs8xbIseku59onHMpZ6bQ3XaeaSjeLgzMQ&s",
+    "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "subcategories": [
       {
         "name": "Fiction",
-        "image": "https://m.media-amazon.com/images/I/715OLif4XoL.AC_UF1000,1000_QL80.jpg",
+        "image": "https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107847.jpg?w=826&t=st=1719513639~exp=1719514239~hmac=e2e705893f294cb1c429c0d11b6789bbeefeb7caab22f37ffb4064366ffecd22",
         "subcategories": [
           {
             "name": "Novels",
-            "image": "https://m.media-amazon.com/images/I/51xwFZin4pL.AC_UF1000,1000_QL80.jpg",
+            "image": "https://m.media-amazon.com/images/I/51Hy3i52oHL._AC_CR0%2C0%2C0%2C0_SX410_SY308_.jpg",
             "price": 455
           },
           {
             "name": "Short Stories",
-            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/a/z/v/greatest-short-stories-for-children-original-imagy32fqzcqmnzz.jpeg?q=90&crop=false",
+            "image": "https://m.media-amazon.com/images/I/41j1qapa7ZL._SY445_SX342_.jpg",
             "price": 399
           },
           {
             "name": "Poetry",
-            "image": "https://static.toiimg.com/photo/95854533.cms",
+            "image": "https://m.media-amazon.com/images/I/81V8GnD8GmL._SL1500_.jpg",
             "price": 699
           }
         ]
       },
       {
         "name": "Non-Fiction",
-        "image": "https://s26162.pcdn.co/wp-content/uploads/2023/05/Nonfiction-preview.jpg",
+        "image": "https://images.unsplash.com/photo-1618365908648-e71bd5716cba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "subcategories": [
           {
             "name": "Biographies",
-            "image": "https://images-cdn.reedsy.com/discovery/post/17/featured_image/large_4776661e463298030274c2929f3ece3313153fe3.jpg",
+            "image": "https://m.media-amazon.com/images/I/71zczV+ZWjL._SL1500_.jpg",
             "price": 899
           },
           {
             "name": "Self-Help",
-            "image": "https://www.wellnessroadpsychology.com/wp-content/uploads/2024/05/Self-Help.jpg",
+            "image": "https://m.media-amazon.com/images/I/71XpkRq0ncL._SL1500_.jpg",
             "price": 255
           },
           {
             "name": "Cookbooks",
-            "image": "https://assets.bonappetit.com/photos/634da68f9ec65550bbe8e1ca/16:9/w_2560%2Cc_limit/20221014-DIGITAL-GIFT-GUIDE-18381-BOOKS%25201-FINAL.jpg",
+            "image": "https://m.media-amazon.com/images/I/61XRz33Sm3L._SL1500_.jpg",
             "price": 377
           }
         ]
       },
       {
         "name": "Children's Books",
-        "image": "https://m.media-amazon.com/images/I/81M07-ZBy-L.AC_UF1000,1000_QL80.jpg"
+        "image": "https://cdn.pixabay.com/photo/2023/03/17/14/26/bear-7858736_1280.jpg"
       },
       {
         "name": "Comics",
-        "image": "https://cdn.kobo.com/book-images/00284104-af1d-45d4-88f5-2a96bfb462d9/353/569/90/False/history-of-comic-books.jpg"
+        "image": "https://images.pexels.com/photos/7524992/pexels-photo-7524992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       }
     ]
   },
   {
     "name": "Sports & Outdoors",
-    "image": "https://www.merecyclers.com/wp-content/uploads/2021/01/MER-buying-used-outdoor-gear.jpg",
+    "image": "https://images.pexels.com/photos/2433353/pexels-photo-2433353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     "subcategories": [
       {
         "name": "Fitness Equipment",
-        "image": "https://m.media-amazon.com/images/I/71xd8oVXDDL.jpg",
+        "image": "https://images.pexels.com/photos/260352/pexels-photo-260352.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "subcategories": [
           {
             "name": "Treadmills",
@@ -249,7 +249,7 @@
       },
       {
         "name": "Outdoor Gear",
-        "image": "https://www.merecyclers.com/wp-content/uploads/2021/01/MER-buying-used-outdoor-gear.jpg",
+        "image": "https://images.pexels.com/photos/2883462/pexels-photo-2883462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "subcategories": [
           {
             "name": "Tents",
@@ -270,15 +270,15 @@
       },
       {
         "name": "Sports Apparel",
-        "image": "https://www.kreedon.com/wp-content/uploads/2023/01/recovery-sportswear-voguebus-may-22-inline-2.webp"
+        "image": "https://images.pexels.com/photos/4462781/pexels-photo-4462781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },
       {
         "name": "Footwear",
-        "image": "https://images.moneycontrol.com/static-mcnews/2020/04/footwear-28042020.jpg?impolicy=website&width=1600&height=900"
+        "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },
       {
         "name": "Accessories",
-        "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/VO/CT/YY/163122041/men-fashion-accessories.jpg"
+        "image": "https://images.pexels.com/photos/6740823/pexels-photo-6740823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       }
     ]
   }
