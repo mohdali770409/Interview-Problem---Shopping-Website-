@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Turms Jeans",
+    "category": "cloths",
+    "price": 800,
+    "picture": "cloth1.png"
+  },
+  {
+    "name": "Turms Jeans",
+    "category": "cloths",
+    "price": 800,
+    "picture": "cloth2.png"
+  },
+  {
+    "name": "Turms Jeans",
+    "category": "cloths",
+    "price": 800,
+    "picture": "cloth3.png"
+  },
+  {
+    "name": "Turms Jeans",
+    "category": "cloths",
+    "price": 800,
+    "picture": "cloth4.png"
+  },
+  {
+    "name": "Headphone",
+    "category": "electronics",
+    "price": 800,
+    "picture": "headphone.jpg"
+  },
+  {
+    "name": "Power Of your Subconcious mind",
+    "category": "books",
+    "price": 499,
+    "picture": "book1.jpg"
+  },
+  {
+    "name": "Turms Jeans",
+    "category": "cloths",
+    "price": 800,
+    "picture": "cloth5.png"
+  },
+  {
+    "name": "Watch",
+    "category": "electronics",
+    "price": 1100,
+    "picture": "watch.jpg"
+  },
+  {
+    "name": "Nike Air",
+    "category": "shoes",
+    "price": 2500,
+    "picture": "shoes1.png"
+  },
+  {
+    "name": "Necklace",
+    "category": "jewellery",
+    "price": 20000,
+    "picture": "necklace.png"
+  },
+  {
+    "name": "Microwave",
+    "category": "electronics",
+    "price": 5000,
+    "picture": "microwave.jpg"
+  },
+  {
+    "name": "Nike Jordan",
+    "category": "shoes",
+    "price": 3000,
+    "picture": "shoes2.png"
+  },
+  {
+    "name": "Gold Ring",
+    "category": "jewellery",
+    "price": 5000,
+    "picture": "ring.png"
+  },
+  {
+    "name": "Gold Chain",
+    "category": "jewellery",
+    "price": 20000,
+    "picture": "chain.png"
+  },
+  {
+    "name": "Eat that Frog",
+    "category": "books",
+    "price": 299,
+    "picture": "book2.jpg"
+  },
+  {
+    "name": "The Brain",
+    "category": "books",
+    "price": 300,
+    "picture": "book3.jpg"
+  }
+]

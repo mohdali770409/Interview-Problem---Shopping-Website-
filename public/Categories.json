@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Cloths",
+    "link": "cloths",
+    "url": "image1.jpg"
+  },
+  {
+    "category": "Shoes",
+    "link": "shoes",
+    "url": "image2.jpg"
+  },
+  {
+    "category": "electronics",
+    "link": "electronics",
+    "url": "image3.jpg"
+  },
+  {
+    "category": "Books",
+    "link": "books",
+    "url": "image4.jpg"
+  },
+  {
+    "category": "jewellery",
+    "link": "jewellery",
+    "url": "image5.jpg"
+  }
+]
