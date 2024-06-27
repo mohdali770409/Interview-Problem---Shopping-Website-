@@ -63,7 +63,7 @@ const TypeAhead = () => {
         value={query}
         onChange={handleInputChange}
         placeholder="Search..."
-        className="w-full p-2 border rounded"
+        className="w-full p-2 border rounded border-amber-400"
       />
       {filteredResults.length > 0 && (
         <ul className="mt-2 border rounded">
